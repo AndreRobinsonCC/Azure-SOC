@@ -39,6 +39,7 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ![Windows RDP/SMB Auth Failures]![(before) windows-rdp-auth-fail](https://github.com/user-attachments/assets/310d0a0c-fc6d-4029-9af5-590cf3c09bd6)
 
+![MySQL Auth Failures]![(before) mssql-auth-fail](https://github.com/user-attachments/assets/54cfac2e-3bd2-44c7-8aae-29e40b34506a)
 
 ## Metrics Before Hardening / Security Controls
 
